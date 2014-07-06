@@ -8,3 +8,5 @@ Technologies used: SocketIO, AJAX, Node, Express & MongoDB
 
 The app was designed so videos can be watched with spoil free commenting.
 Comments for videos are displayed based on time when they were originally made and in real-time as video plays.
+
+Developed by: Alex Baden, Eddie Ng, Tara Lerias
